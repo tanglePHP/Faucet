@@ -26,10 +26,7 @@ _The aim of the this lib is to offer PHP developers an easy way to interact with
 
 + PHP 8+
 + PHP Libraries:
-    + [tanglePHP/Core](https://github.com/tanglePHP/Core)
-    + [tanglePHP/Network](https://github.com/tanglePHP/Network)
-    + [tanglePHP/SingleNodeClient](https://github.com/tanglePHP/SingleNodeClient)
-    + [tanglePHP/IndexerPlugin](https://github.com/tanglePHP/IndexerPlugin)
+    + [tanglePHP/network](https://github.com/tanglePHP/network)
 
 ---
 
